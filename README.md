@@ -24,7 +24,7 @@ The code aims to perform retinal blood vessel segmentation using various image p
 -	Generates segmented images and saves them in the processed folder.
 -	Displays intermediate processing steps if the mode is 'train'.
 
-![training_01]('/sources/readmeData/training_01.png')
+![training_01]('./sources/readmeData/training_01.png')
 ![training_02]('/sources/readmeData/training_02.png')
 
 
