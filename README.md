@@ -24,14 +24,14 @@ The code aims to perform retinal blood vessel segmentation using various image p
 -	Generates segmented images and saves them in the processed folder.
 -	Displays intermediate processing steps if the mode is 'train'.
 
-![training_01]('/sources/training_01.png')
-![training_02]('/sources/training_02.png')
+![training_01]('/sources/readmeData/training_01.png')
+![training_02]('/sources/readmeData/training_02.png')
 
 
 -	The validation function assesses segmentation accuracy by comparing the segmented image with ground truth data.
 It calculates metrics like True Positive Rate (TPR), False Positive Rate (FPR), and Accuracy (AC).
 
-![training_03]('/sources/training_03.png')
+![training_03]('/sources/readmeData/training_03.png')
 
 2-	Testing Phase:
 -	Reads test images.
@@ -40,7 +40,7 @@ It calculates metrics like True Positive Rate (TPR), False Positive Rate (FPR), 
 -	Displays intermediate steps if the mode is 'test' (commented out in the code).
 -	There is no validation here as I don’t have ground truth values in the test folder database to compare with.
 
-![test_01]('/sources/test_01.png')
+![test_01]('/sources/readmeData/test_01.png')
 
 
 
